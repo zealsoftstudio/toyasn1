@@ -1,0 +1,21 @@
+# toyasn1.cnf
+# TOYASN1 conformation file
+
+# $Id$
+
+#.MODULE_IMPORT
+
+#.EXPORTS
+
+#.PDU
+TOYASN1-MESSAGE
+
+#.NO_EMIT
+
+#.TYPE_RENAME
+
+#.FIELD_RENAME
+
+#.END
+
+
